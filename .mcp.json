@@ -1,0 +1,9 @@
+
+{
+  "mcpServers": {
+    "olachill": {
+      "type": "http",
+      "url": "https://olachill.com/mcp"
+    }
+  }
+}
