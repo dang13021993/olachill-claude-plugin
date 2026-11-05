@@ -1,5 +1,4 @@
 
----
 name: japan-travel-finder
 description: Use when a traveler wants to find, compare or check availability of Japan tours, attraction tickets, activities, ryokan, helicopter flights, golf or eSIM plans from OlaChill.
 ---
