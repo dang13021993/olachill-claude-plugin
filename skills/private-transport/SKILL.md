@@ -1,5 +1,4 @@
 
----
 name: private-transport
 description: Use for Japan airport transfers, private chauffeurs, or group coach and minibus estimates in Japan and supported Schengen Europe routes via OlaChill.
 ---
