@@ -1,0 +1,14 @@
+
+{
+  "name": "olachill-travel",
+  "displayName": "OlaChill Travel",
+  "version": "1.0.0",
+  "description": "Find and compare Japan tours, attraction tickets, ryokan, private airport transfers, charter buses, helicopter flights, golf and eSIM services using OlaChill MCP.",
+  "author": {
+    "name": "MIA Co., Ltd.",
+    "url": "https://olachill.com"
+  },
+  "homepage": "https://olachill.com",
+  "repository": "https://github.com/dang13021993/olachill-claude-plugin",
+  "license": "MIT"
+}
