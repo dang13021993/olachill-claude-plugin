@@ -1,4 +1,4 @@
-"privacyPolicyUrl": "https://olachill.com/en/privacy-policy",
+
 {
   "name": "olachill-travel",
   "displayName": "OlaChill Travel",
@@ -9,6 +9,7 @@
     "url": "https://olachill.com"
   },
   "homepage": "https://olachill.com",
+  "privacyPolicyUrl": "https://olachill.com/en/privacy-policy",
   "repository": "https://github.com/dang13021993/olachill-claude-plugin",
   "license": "MIT"
 }
